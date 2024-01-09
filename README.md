@@ -3,7 +3,7 @@
 ## install
 
 ```
-pip install torch numpy transformers datasets tiktoken wandb tqdm
+pip3 install torch numpy transformers datasets tiktoken wandb tqdm
 ```
 
 Dependencies:
