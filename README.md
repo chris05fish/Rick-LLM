@@ -37,11 +37,11 @@ python3 sample.py --out_dir=out-rick_morty --device=cpu
 Generates samples like this:
 
 ```
-GLEORKEN VINGHARD III:
-Whell's the couse, the came light gacks,
-And the for mought you in Aut fries the not high shee
-bot thou the sought bechive in that to doth groan you,
-No relving thee post mose the wear
+Yeah, Morty. You're gonna do it, Morty!
+Well, Morty. Run!
+Come on, you don't help, Morty. I can, Morty.
+Oh, Morty, but we just gonna be your bell rings, you really take the back!
+You're gonna for your mom!
 ```
 
 ## reproducing GPT-2
